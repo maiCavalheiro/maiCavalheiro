@@ -1,4 +1,4 @@
-### Olá!👋 Eu sou a Maira Cavalheiro
+### Olá!👋 Eu sou a Maira
 
 - 🌱 Estudando Angular
 - 😄 Pronouns: ela/dela
