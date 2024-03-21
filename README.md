@@ -1,7 +1,7 @@
 ### Olá!👋 Eu sou a Maira
 
 - 🌱 Estudando Angular
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 - 📫 Entre em contato pelo email: mairadanielec@gmail.com
 
 ##
